@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b1f3b55.css",
-    "main.js": "/static/js/main.8bcc5579.js",
-    "static/media/new-notifications.svg": "/static/media/new-notifications.c547256e19389783fab42d7218aa4d2e.svg",
-    "static/media/working-anywhere.svg": "/static/media/working-anywhere.2069d0ed0bc295f9f499d9669c738463.svg",
-    "static/media/google-play.svg": "/static/media/google-play.bf8ffc788d608100e182cae75f6f1810.svg",
-    "static/media/apple-store.svg": "/static/media/apple-store.978e55be3639d79bb432476d362460df.svg",
-    "static/media/logo.svg": "/static/media/logo.6d8dcdd5484724bf322adc60c524959c.svg",
-    "static/media/user-add.svg": "/static/media/user-add.b89b1f080b66bae49782b3c3d481a754.svg",
-    "static/media/shield.svg": "/static/media/shield.67cf057ade67cc8a167258f5b5d4bbff.svg",
-    "static/media/emogi-happy.svg": "/static/media/emogi-happy.df710c94cc2b8b71b615d17bbe57f1d9.svg",
-    "index.html": "/index.html",
-    "main.2b1f3b55.css.map": "/static/css/main.2b1f3b55.css.map",
-    "main.8bcc5579.js.map": "/static/js/main.8bcc5579.js.map"
+    "main.css": "/LandpageProduct19/static/css/main.2b1f3b55.css",
+    "main.js": "/LandpageProduct19/static/js/main.fc41e586.js",
+    "static/media/new-notifications.svg": "/LandpageProduct19/static/media/new-notifications.c547256e19389783fab42d7218aa4d2e.svg",
+    "static/media/working-anywhere.svg": "/LandpageProduct19/static/media/working-anywhere.2069d0ed0bc295f9f499d9669c738463.svg",
+    "static/media/google-play.svg": "/LandpageProduct19/static/media/google-play.bf8ffc788d608100e182cae75f6f1810.svg",
+    "static/media/apple-store.svg": "/LandpageProduct19/static/media/apple-store.978e55be3639d79bb432476d362460df.svg",
+    "static/media/logo.svg": "/LandpageProduct19/static/media/logo.6d8dcdd5484724bf322adc60c524959c.svg",
+    "static/media/user-add.svg": "/LandpageProduct19/static/media/user-add.b89b1f080b66bae49782b3c3d481a754.svg",
+    "static/media/shield.svg": "/LandpageProduct19/static/media/shield.67cf057ade67cc8a167258f5b5d4bbff.svg",
+    "static/media/emogi-happy.svg": "/LandpageProduct19/static/media/emogi-happy.df710c94cc2b8b71b615d17bbe57f1d9.svg",
+    "index.html": "/LandpageProduct19/index.html",
+    "main.2b1f3b55.css.map": "/LandpageProduct19/static/css/main.2b1f3b55.css.map",
+    "main.fc41e586.js.map": "/LandpageProduct19/static/js/main.fc41e586.js.map"
   },
   "entrypoints": [
     "static/css/main.2b1f3b55.css",
-    "static/js/main.8bcc5579.js"
+    "static/js/main.fc41e586.js"
   ]
 }
