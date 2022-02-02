@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 70px;
+  padding: 20px 135px;
+
+  .menu {
+    display: flex;
+    gap: 66px;
+  }
+}

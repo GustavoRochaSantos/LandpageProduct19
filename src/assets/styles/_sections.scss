@@ -1,0 +1,85 @@
+.main-container {
+  section {
+    padding: 66px 135px;
+
+    @include flex-center;
+  }
+  section:nth-child(even) {
+    background: $color-white-200;
+  }
+
+  .how-works {
+    flex-direction: column;
+    justify-content: space-between;
+
+    .wrapper {
+      width: 100%;
+      @include flex-center;
+      justify-content: space-between;
+
+      & > div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+        max-width: 250px;
+      }
+    }
+  }
+
+  .download {
+    justify-content: space-between;
+
+    h3 {
+      margin-bottom: 30px;
+    }
+
+    div {
+      max-width: 40%;
+    }
+
+    .svg-button {
+      margin-left: -3px;
+      margin-top: 20px;
+      margin-right: 20px;
+      width: 130px;
+      height: 50px;
+    }
+  }
+
+  .plans {
+    flex-direction: column;
+    justify-content: space-between;
+
+    .subtitle {
+      max-width: 500px;
+      text-align: center;
+    }
+    .wrapper_cards {
+      width: 100%;
+      @include flex-center;
+      justify-content: space-between;
+      margin-top: 60px;
+
+      .card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+        width: 330px;
+        height: 471px;
+        padding: 40px;
+        border-radius: 5px;
+      }
+      .card:nth-child(odd) {
+        background-color: $color-white-200;
+      }
+      .card:nth-child(even) {
+        color: $color-white;
+        background-color: $color-gray-dark;
+      }
+    }
+  }
+}

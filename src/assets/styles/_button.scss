@@ -1,0 +1,26 @@
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 16px 36px;
+
+  width: 200px;
+  height: 56px;
+  left: 135px;
+  top: 478px;
+
+  background: $color-blue;
+  box-shadow: 1px 3px 4px rgba(19, 125, 224, 0.5);
+  border-radius: 50px;
+  color: $color-white;
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  &:active {
+    background-color: $color-blue-dark;
+    transition: background-color 0.2s linear;
+  }
+}

@@ -1,0 +1,26 @@
+$color-blue: #0f9afe;
+$color-blue-dark: #0778c8;
+$color-white: #fff;
+$color-white-200: #eff8ff;
+$color-white-400: #eff8ff;
+$color-gray: #6e7275;
+$color-gray-light: #dbdbdb;
+$color-gray-dark: #293145;
+
+.mt-66 {
+  margin-top: 66px;
+}
+
+@mixin flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.svg-icon {
+  width: 40px;
+  height: 60px;
+}
+
+.text-center {
+  text-align: center;
+}
